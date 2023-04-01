@@ -80,6 +80,8 @@ $RECYCLE.BIN/
 ssl
 .idea
 nbproject
+public/uploads*
+!public/uploads.gitkeep
 
 ############################
 # Node.js
@@ -104,9 +106,13 @@ coverage
 # Strapi
 ############################
 
+.env
 license.txt
 exports
 *.cache
 dist
 build
 .strapi-updater.json
+
+# path: ./.gitignore
+package-lock.json
