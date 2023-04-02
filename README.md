@@ -8,7 +8,7 @@
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/kassandraokland/strapi-bits-and-bots-kassandraokland.git
+git clone https://github.com/kassandraokland/strapi-bits-and-bots.git
 ```
 
 
